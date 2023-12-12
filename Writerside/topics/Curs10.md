@@ -1,4 +1,4 @@
-# Curs10
+# Curs11
 
 - DMU = digital mock-up
 - Definim cuple
@@ -61,4 +61,5 @@ Mentiuni: daca e de facut dmu, se cauta roboti care au piesele puse separat, (jo
 gasim un step cu toate chestiile intr-una, deschidem step-ul, si salvam individual fiecare body din ansamblu.
 
 Pentru constrangeri / elemente de simulare, se pot lua doar din acelasi subansamblu!
+
 
