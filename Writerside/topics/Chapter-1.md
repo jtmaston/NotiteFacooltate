@@ -1,4 +1,4 @@
-# Chapter 1
+# Verilog
 
 ## Generalities
 ASIC - Fixed-function hardware, application-specific-integrated-circuit\

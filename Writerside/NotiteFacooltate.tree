@@ -7,16 +7,36 @@
                  start-page="Default-topic.md">
 
     <toc-element topic="Default-topic.md"/>
-    <toc-element topic="SA.md">
-        <toc-element topic="Curs-11.md"/>
-    </toc-element>
-    <toc-element topic="PAC.md">
-        <toc-element topic="Curs10.md"/>
-    </toc-element>
-    <toc-element topic="CERI1.md">
-        <toc-element topic="Curs10_ceri1.md"/>
-    </toc-element>
     <toc-element topic="Extra-FPGAs.md">
+        <toc-element topic="Lattice-Diamond.md">
+            <toc-element topic="Chapter-1-Identifying-datasheets.md"/>
+            <toc-element topic="Chapter-2-Project-creation.md"/>
+            <toc-element topic="Chapter-3-Verilog.md"/>
+            <toc-element topic="Chapter-4-Pin-assignment.md"/>
+            <toc-element topic="Chapter-5-Mapping-and-Simulation.md"/>
+            <toc-element topic="Chapter-6-Place-route-flash.md"/>
+        </toc-element>
         <toc-element topic="Chapter-1.md"/>
+    </toc-element>
+    <toc-element topic="An-3-Sem-1.md">
+        <toc-element topic="PAC.md">
+            <toc-element topic="Curs-12.md"/>
+            <toc-element topic="Curs10.md"/>
+        </toc-element>
+        <toc-element topic="CERI1.md">
+            <toc-element topic="Curs10_ceri1.md"/>
+        </toc-element>
+        <toc-element topic="SA.md">
+            <toc-element topic="Curs13.md"/>
+            <toc-element topic="Curs-11.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="An-3-Sem-2.md">
+        <toc-element topic="PAC3a.md">
+            <toc-element topic="Curs-2.md"/>
+        </toc-element>
+        <toc-element topic="SA2.md">
+            <toc-element topic="Lab-1.md"/>
+        </toc-element>
     </toc-element>
 </instance-profile>
